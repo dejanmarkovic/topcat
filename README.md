@@ -1,4 +1,4 @@
 topcat
 ======
 
-topcat theme rep
+topcat theme repository
